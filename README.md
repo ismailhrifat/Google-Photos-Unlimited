@@ -1,4 +1,4 @@
-# Pixel 1 Unlimited Photos Spoofer (Original Quality)
+# Unlimited Backup in Google Photos (Original Quality)
 
 A lightweight Magisk module that spoofs your Android device identity to the original Google Pixel (2016).
 
