@@ -29,6 +29,7 @@ The original Google Pixel (2016) is the only device that still retains the "Unli
 3.  Tap on the Modules tab.
 4.  Tap "Install from Storage" and select the downloaded zip.
 5.  Reboot your device.
+6.  Open Google Photos and verify that it shows "*This Pixel can back up unlimited photos & videos at no charge,*" or backup a new photo and verify that it shows "*This item doesn't take up space in your account storage.*"
 
 ## ⚠️ Important Notes & Disclaimers
 
@@ -40,4 +41,4 @@ The original Google Pixel (2016) is the only device that still retains the "Unli
   - Rifat ([@ismailhrifat](https://github.com/ismailhrifat))
   - Magisk Developer (topjohnwu) for the magic.
 
-Disclaimer: This module is provided "as is". I am not responsible for any bootloops or data loss. Always backup your data before
+*Disclaimer: This module is provided "as is". I am not responsible for any bootloops or data loss. Always backup your data before*
